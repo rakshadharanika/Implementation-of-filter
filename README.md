@@ -27,8 +27,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 End the program.
 
 ## Program :
-### Developed By : VIDHIYA LAKSHMI S
-### Register Number : 212223230238
+### Developed By : V RAKSHA DHARANIKA
+### Register Number : 212223230167
 </br>
 
 ### 1. Smoothing Filters
@@ -364,22 +364,25 @@ plt.show()
 
 i) Using Averaging Filter
 
-![image](https://github.com/user-attachments/assets/3bfa8f6f-609b-4c86-ad03-ebac239f0a37)
+![image](https://github.com/user-attachments/assets/c119963e-c2d7-41b4-a419-a799dd28a6e9)
+
 
 
 ii) Using Weighted Averaging Filter
 
-![image](https://github.com/user-attachments/assets/fdefee6a-986e-45e7-a7e7-a0a3cfcbc6f7)
+![image](https://github.com/user-attachments/assets/169aca3d-22c1-4afb-ac57-eeff9cbd78ad)
+
 
 
 iii) Using Gaussian Filter
 
-![image](https://github.com/user-attachments/assets/6115f5f4-1464-4884-8947-637ab3b7f587)
+![image](https://github.com/user-attachments/assets/5aa61d1a-8ea6-4a69-9402-2def33751371)
 
 
 iv) Using Median Filter
 
-![image](https://github.com/user-attachments/assets/28f67f57-32a8-4d7d-8447-b6f5fab3b4e3)
+![image](https://github.com/user-attachments/assets/9a304f8c-4689-4ce0-8981-cfac1b9843a7)
+
 
 
 ### 2. Sharpening Filters
@@ -387,12 +390,13 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 
-![image](https://github.com/user-attachments/assets/949124ef-9008-4127-8fde-0efcadd0b6bd)
+![image](https://github.com/user-attachments/assets/ab08034e-b496-4a6c-982e-db94ffa5b9f6)
 
 
 ii) Using Laplacian Operator
 
-![image](https://github.com/user-attachments/assets/cb84a046-ff7a-4970-b543-efa9a3deeff4)
+![image](https://github.com/user-attachments/assets/99da0d67-010c-4001-8ca9-c0f80fc83c0f)
+
 
 
 ## Result:
