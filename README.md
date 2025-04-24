@@ -39,7 +39,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Fish.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('grayimage.jpg', cv2.IMREAD_GRAYSCALE)
 salt_prob = 0.05  
 pepper_prob = 0.05  
 
@@ -92,7 +92,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Fish.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('grayimage.jpg', cv2.IMREAD_GRAYSCALE)
 
 salt_prob = 0.05  
 pepper_prob = 0.05  
@@ -155,7 +155,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Fish.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('grayimage.jpg', cv2.IMREAD_GRAYSCALE)
 
 blurred_image = cv2.GaussianBlur(image, (3, 3), 0)
 
@@ -212,7 +212,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Fish.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('grayimage.jpg', cv2.IMREAD_GRAYSCALE)
 
 salt_prob = 0.05  
 pepper_prob = 0.05  
@@ -268,7 +268,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Fish.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('grayimage.jpg', cv2.IMREAD_GRAYSCALE)
 
 blurred_image = cv2.GaussianBlur(image, (3, 3), 0)
 
@@ -325,7 +325,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('Fish.jpg', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('grayimage.jpg', cv2.IMREAD_GRAYSCALE)
 
 blurred_image = cv2.GaussianBlur(image, (3, 3), 0)
 
